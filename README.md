@@ -21,3 +21,7 @@ PROJECT SDF11
  
 Learned how to implement responsive design principles using Flexbox, CSS Grid, and media queries to create layouts that adapt to various screen sizes and devices.
 Gained knowledge on accessibility best practices, including color contrast, focus states, and semantic HTML, to ensure that the website is usable by individuals with disabilities
+loom video link
+https://www.loom.com/share/72a62d32d3334072bbb3386ca1dba8d7?sid=cba836f7-2fa4-4c43-bf88-da51d8dba340
+presentation slides
+https://docs.google.com/presentation/d/1zJ1TzCqU8nVsBAg3gPWiLMyE9GxGWQeR-s6z2oD9WQk/edit#slide=id.g3f7ec1d4ea_0_0
